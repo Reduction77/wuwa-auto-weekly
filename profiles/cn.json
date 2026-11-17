@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "cn_login": true,
+  "validated": false,
+  "reference_size": [2560, 1440],
+  "states": {},
+  "actions": {},
+  "templates": {},
+  "verification": {
+    "login_screenshot_recognition": true,
+    "wgc_live_capture": true,
+    "background_input": false,
+    "weekly_flow": false
+  }
+}

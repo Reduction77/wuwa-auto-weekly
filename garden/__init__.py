@@ -1,0 +1,1 @@
+"""Independent weekly garden automation."""
